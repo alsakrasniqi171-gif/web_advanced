@@ -1,0 +1,16 @@
+h1{
+    background-color: rgb(154, 209, 245);
+    color: rgb(79, 72, 170);
+    font-weight: 200px;
+    font-size: 65px;
+    padding: 5px;
+    left: auto;
+    right: auto;
+
+}
+
+p{
+    background-color: rgb(170, 218, 236);
+    color: #305996;
+    font-size: 20px;
+}

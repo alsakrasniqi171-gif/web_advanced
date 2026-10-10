@@ -1,0 +1,59 @@
+h1{
+    background-color: rgb(214, 188, 231);
+    color: rgb(117, 37, 117);
+    font-weight: 200px;
+    font-size: 65px;
+    padding: 5px;
+    left: auto;
+    right: auto;
+
+}
+
+p{
+    color: rgb(188, 98, 211);
+    background-color: rgb(239, 230, 248);
+    font-size: 25px;
+}
+
+h2{
+    background-color: rgb(243, 202, 209);
+    color: rgb(99, 40, 64);
+    font-weight: 200px;
+    font-size: 65px;
+    padding: 5px;
+    left: auto;
+    right: auto;
+
+}
+
+p{
+    background-color: antiquewhite;
+    color: #420f0f;
+}
+
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: rgb(139, 56, 107);
+  color: rgb(235, 203, 203);
+  padding: 10px;
+}
+
+td {
+  border: 1px solid rgb(207, 147, 156);
+  padding: 10px;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(102, 32, 81);
+}
+
+tr:hover {
+  background-color: rgb(117, 76, 83);
+}

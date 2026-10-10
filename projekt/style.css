@@ -33,3 +33,40 @@ h3{
    left: auto;
    right: auto;
 }
+
+h4{
+     background-color: rgb(182, 123, 236);
+   color: rgb(116, 44, 184);
+   font-size: 65px;  
+   padding: 5px; 
+   left: auto;
+   right: auto;
+}
+
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: pink;
+  color: white;
+  padding: 10px;
+}
+
+td {
+  border: 1px solid pink;
+  padding: 10px;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: lavender;
+}
+
+tr:hover {
+  background-color: lightpink;
+}
+  
